@@ -3,8 +3,6 @@
 ## Description
 Welcome to "Infernal Delivery Driver: Zombie Retrieval" - a spine-chilling Unity game tutorial where you embody a hellish truck driver on a mission to return the lost souls of the undead back to the fiery pits of hell. Traverse through ominous landscapes, face unforeseen challenges, and bring closure to the wandering spirits.
 
-In this tutorial, we will guide you through the process of creating this captivating game, ensuring that you acquire essential Unity skills and unleash your creative demons.
-
 ## Features
 - **Rugged Landscapes:** Learn to design haunted realms filled with unpredictable terrains and eerie ambiance.
 - **Hellish Trucks:** Get hands-on experience creating infernal trucks capable of surviving the harshest conditions.
